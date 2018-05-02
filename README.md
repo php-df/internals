@@ -1,2 +1,3 @@
 # organization
-Centralização organizacional para o PHPDF
+
+Repositório destinado ao registro de ações pelo time de Curadoria do PHPDF.
