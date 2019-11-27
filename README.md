@@ -1,5 +1,7 @@
 # Internals
 
+![](http://lydiaramsey.com/savannah/wp-content/uploads/2017/06/Handshake.jpg =250x)
+
 Repositório destinado a dar visibilidade de quais quais atividades estão sendo organizadas e quais colaboradores que participam ativamente na organização de **eventos**, **atividades** e **curadoria** na comunidade [PHP DF](https://phpdf.org.br). 
 
 ## Nosso time
