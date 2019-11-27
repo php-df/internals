@@ -1,6 +1,6 @@
 # Internals
 
-![](http://lydiaramsey.com/savannah/wp-content/uploads/2017/06/Handshake.jpg){width=250px}
+![](http://lydiaramsey.com/savannah/wp-content/uploads/2017/06/Handshake.jpg)
 
 Repositório destinado a dar visibilidade de quais quais atividades estão sendo organizadas e quais colaboradores que participam ativamente na organização de **eventos**, **atividades** e **curadoria** na comunidade [PHP DF](https://phpdf.org.br). 
 
@@ -42,11 +42,9 @@ Alguns itens são classificados como **negativos** e não são tolerados como:
 - Injúria
 - Participação de conflitos tóxicos que diminua ou estimule desconforto para uma ou mais pessoas do comunidade
 - Demonstração de preconceito como :
-  - Preconceito racial
-  - Preconceito linguístico
-  - Raça e etnia
+  - Racial
+  - Linguístico
   - Racismo
-  - Injúria racial e racismo
   - Xenofobia
   - Homofobia
 - Atividades que diminuam ou menosprezam pessoas
