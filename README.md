@@ -1,6 +1,6 @@
 # Internals
 
-Repositório destinado a dar visibilidade para a comunidade de colaboradores que participam ativamente na organização de **eventos**, **atividades** e **curadoria** na comunidade [PHP DF](https://phpdf.org.br). 
+Repositório destinado a dar visibilidade de quais quais atividades estão sendo organizadas e quais colaboradores que participam ativamente na organização de **eventos**, **atividades** e **curadoria** na comunidade [PHP DF](https://phpdf.org.br). 
 
 ## Nosso time
 
