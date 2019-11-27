@@ -15,12 +15,12 @@ Atualmente nosso time é composto por:
 - Cleber Santos
 - Daniel Soares
 - Lucas
-- Marcelo
+- Marcelo Rodovalho (@celorodovalho)
 - Odilon
 - Pedro Philipe
-- Raniery
+- Raniery (@raniery)
 - Rodrigo Régis
-- Vinícius
+- Vinícius (@vinnyfs89)
 
 ## :question: Onde atuamos
 
