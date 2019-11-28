@@ -17,7 +17,7 @@ Atualmente nosso time é composto por:
 - Lucas
 - Marcelo Rodovalho ([@celorodovalho](https://github.com/celorodovalho))
 - Odilon
-- Pedro Philipe
+- Pedro Philipe ([@pedro-philipe](https://github.com/pedro-philipe))
 - Raniery ([@raniery](https://github.com/raniery))
 - Rodrigo Régis
 - Vinícius ([@vinnyfs89](https://github.com/vinnyfs89))
