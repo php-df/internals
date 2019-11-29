@@ -10,7 +10,7 @@ Anualmente é criado um time com membros que tem interesse e tempo disponível p
 
 Atualmente nosso time é composto por:
 
-- Arthur Almeida
+- Arthur Almeida ([@arthuralmeidap](https://github.com/arthuralmeidap))
 - Bruno
 - Cleber Santos
 - Daniel Soares
@@ -19,7 +19,7 @@ Atualmente nosso time é composto por:
 - Odilon
 - Pedro Philipe
 - Raniery ([@raniery](https://github.com/raniery))
-- Rodrigo Régis
+- Rodrigo Régis ([@regisnew](https://github.com/regisnew))
 - Vinícius ([@vinnyfs89](https://github.com/vinnyfs89))
 
 ## :question: Onde atuamos
