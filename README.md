@@ -16,7 +16,7 @@ Atualmente nosso time é composto por:
 - Daniel Soares
 - Lucas
 - Marcelo Rodovalho ([@celorodovalho](https://github.com/celorodovalho))
-- Odilon
+- Odilon Garcez ([@bc05](https://github.com/bc05))
 - Pedro Philipe
 - Raniery ([@raniery](https://github.com/raniery))
 - Rodrigo Régis ([@regisnew](https://github.com/regisnew))
