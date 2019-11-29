@@ -10,16 +10,16 @@ Anualmente é criado um time com membros que tem interesse e tempo disponível p
 
 Atualmente nosso time é composto por:
 
-- Arthur Almeida
+- Arthur Almeida ([@arthuralmeidap](https://github.com/arthuralmeidap))
 - Bruno
 - Cleber Santos
 - Daniel Soares
 - Lucas
 - Marcelo Rodovalho ([@celorodovalho](https://github.com/celorodovalho))
-- Odilon
+- Odilon Garcez ([@bc05](https://github.com/bc05))
 - Pedro Philipe ([@pedro-philipe](https://github.com/pedro-philipe))
 - Raniery ([@raniery](https://github.com/raniery))
-- Rodrigo Régis
+- Rodrigo Régis ([@regisnew](https://github.com/regisnew))
 - Vinícius ([@vinnyfs89](https://github.com/vinnyfs89))
 
 ## :question: Onde atuamos
