@@ -11,7 +11,7 @@ Anualmente é criado um time com membros que tem interesse e tempo disponível p
 Atualmente nosso time é composto por:
 
 - Arthur Almeida ([@arthuralmeidap](https://github.com/arthuralmeidap))
-- Bruno
+- Bruno Souza ([@brunohsouza](https://github.com/brunohsouza)) 
 - Cleber Santos
 - Daniel Soares
 - Lucas
