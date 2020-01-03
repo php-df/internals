@@ -14,7 +14,7 @@ Atualmente nosso time é composto por:
 - Bruno Souza ([@brunohsouza](https://github.com/brunohsouza)) 
 - Cleber Santos
 - Daniel Soares
-- Lucas
+- Lucas Cortez ([@tehcortez](https://github.com/tehcortez))
 - Marcelo Rodovalho ([@celorodovalho](https://github.com/celorodovalho))
 - Odilon Garcez ([@bc05](https://github.com/bc05))
 - Pedro Philipe ([@pedro-philipe](https://github.com/pedro-philipe))
