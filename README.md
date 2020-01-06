@@ -21,6 +21,7 @@ Atualmente nosso time é composto por:
 - Raniery ([@raniery](https://github.com/raniery))
 - Rodrigo Régis ([@regisnew](https://github.com/regisnew))
 - Vinícius ([@vinnyfs89](https://github.com/vinnyfs89))
+- Camilo Fernandes ([@DotAmzi](https://github.com/dotamzi))
 
 ## :question: Onde atuamos
 
