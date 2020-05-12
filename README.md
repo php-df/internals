@@ -12,16 +12,13 @@ Atualmente nosso time é composto por:
 
 - Arthur Almeida ([@arthuralmeidap](https://github.com/arthuralmeidap))
 - Bruno Souza ([@brunohsouza](https://github.com/brunohsouza)) 
-- Cleber Santos
-- Daniel Soares
+- Camilo Fernandes ([@DotAmzi](https://github.com/dotamzi))
 - Lucas Cortez ([@tehcortez](https://github.com/tehcortez))
 - Marcelo Rodovalho ([@celorodovalho](https://github.com/celorodovalho))
 - Odilon Garcez ([@bc05](https://github.com/bc05))
-- Pedro Philipe ([@pedro-philipe](https://github.com/pedro-philipe))
 - Raniery ([@raniery](https://github.com/raniery))
-- Rodrigo Régis ([@regisnew](https://github.com/regisnew))
 - Vinícius ([@vinnyfs89](https://github.com/vinnyfs89))
-- Camilo Fernandes ([@DotAmzi](https://github.com/dotamzi))
+
 
 ## :question: Onde atuamos
 
